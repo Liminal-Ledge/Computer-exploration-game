@@ -1,0 +1,14 @@
+
+	     _/    _/  
+	               
+	     _/_/      
+	  _/    _/     
+	 _/_/_/_/      
+	_/    _/       
+     www.aerie.com
+
+ Äerie COMPUTERS 1985 (C)
+ CPU:	Motorola 680x0 - 7 MHz
+ Memory: 256KB
+ 
+ Booting up
