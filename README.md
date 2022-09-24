@@ -1,4 +1,4 @@
-# CEDGe - Computer exploration detective game concept
+# Computer exploration detective game concept
 An experimental unique concept of a mystery-detective video game that is played by exploring a computer's files with the purpose of investigating a case that involves the owner of the computer. 
 ![Demo](Demo.gif)
 ## Features
